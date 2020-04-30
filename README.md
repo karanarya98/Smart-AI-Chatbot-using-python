@@ -13,7 +13,7 @@ pip install chatbotAI
 
 install from github:
 
-git clone https://github.com/ahmadfaizalbh/Chatbot.git
+git clone https://github.com/karanarya98/Smart-Ai-Chatbot-Using-Python.git
 cd Chatbot
 python setup.py install
 
